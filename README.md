@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there I'm YoonJi 👋
+
+
+[![Top Langs](https://github-readme-stats-six-hazel.vercel.app/api/top-langs/?username=yuzaa00&layout=compact)](https://github.com/yuzaa00/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats-six-hazel.vercel.app/api?username=yuzaa00)](https://github.com/yuzaa00/github-readme-stats)
+
 
 <!--
 **yuzaa00/yuzaa00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
